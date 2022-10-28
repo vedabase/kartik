@@ -1,0 +1,14 @@
+Library editor
+==============
+
+Requirements:
+
+- multilingual tree
+- ability to create different content types (book, canto, chapter,
+  verse, paragraph, footnote)
+- import mode (paste whole text, easy to split into smaller content types)
+- inline editor
+- support for images
+- easy to link to other pages (link by code, translation key)
+- support revisions
+- permissions in tree
