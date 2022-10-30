@@ -31,3 +31,6 @@ Battle plan:
    - bookmarks
      - bookmark page (easy to remove bookmarks)
      - add/remove new bookmarks through paragrap tool
+7) search
+8) alfred type quick search
+9) categorization functionality
